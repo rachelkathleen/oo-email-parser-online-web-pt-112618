@@ -8,6 +8,7 @@ attr_accessor :emails
 @@all_emails
 
 def initialize(emails)
+end
 
 def parse
 end
