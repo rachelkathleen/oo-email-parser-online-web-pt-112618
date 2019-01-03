@@ -12,7 +12,7 @@ end
 
 def parse
   parts = emails.split(",", " ")
-    parsed_emails = parts[0]
+  parsed_email = parts[0]
 end
 
 end
