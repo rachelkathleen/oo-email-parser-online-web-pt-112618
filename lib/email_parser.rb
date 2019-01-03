@@ -11,6 +11,8 @@ def initialize(emails)
 end
 
 def parse
+  parts = emails.split(",", " ")
+    parsed_emails = parts[0]
 end
 
 end
